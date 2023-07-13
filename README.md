@@ -1,5 +1,5 @@
 # FF8CSR
-CutScene Remover mod for Final Fantasy 8 for speedrun practice.
+CutScene Remover mod for Final Fantasy 8 speedrun practice.
 
 This repository created to track issues in the mod.
 
