@@ -1,6 +1,6 @@
 # FF8CSR
 CutScene Remover mod for Final Fantasy 8 speedrun practice.
 
-This repository created to track issues in the mod.
+This repository created to track issues in the mod (Practice% included).
 
-If you encounter any issues please create a ticket for each here [issues](https://github.com/Dzoiver/FF8CSR/issues).
+If you encounter any issues please create a ticket for each here [issues](https://github.com/Dzoiver/FF8CSR/issues)
