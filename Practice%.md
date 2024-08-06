@@ -3,7 +3,7 @@
 [Google drive](https://drive.google.com/drive/folders/12YDjA0OoBHYP1rWRyrbDbVB0ZGqsY9X1).
 
 # Installation:
-Same as CSR  
+Same as CSR.
 
 ### Mod has 3 routes:
 - Practice% (~1.5h long) for practicing menus and testing any different routes.  
