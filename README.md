@@ -1,6 +1,14 @@
 # FF8CSR
 CutScene Remover mod for Final Fantasy 8 speedrun practice.
 
-This repository created to track issues in the mod (Practice% included).
+## Download from google drive:
+https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy?usp=sharing
+
+## Installation:
+Copy and paste the 3 files into your "FINAL FANTASY VIII/Data/lang-en" folder for english and "FINAL FANTASY VIII/Data/lang-fr" for french
+
+## Credit:
+Seifer
+Thomas_8989
 
 If you encounter any issues please create a ticket for each here [issues](https://github.com/Dzoiver/FF8CSR/issues)
