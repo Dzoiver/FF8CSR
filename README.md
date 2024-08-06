@@ -13,9 +13,6 @@ English path: *"FINAL FANTASY VIII/Data/lang-fr"* <br />
 ## How to remove the mod:
 Verify the game cache in the game's proprerties in steam, or replace the files with original backup ones.
 
-## Description:
-
-
 ## FAQ:
 ### Which version of FF8 do I need?
 - Mod only works for Steam 2013 version. English and French only.
