@@ -1,7 +1,7 @@
 # FF8CSR
 Final Fantasy VIII Cutscene Remover Mod.
 
-## Download from google drive:
+## Download:
 https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy?usp=sharing
 
 ## Installation:
