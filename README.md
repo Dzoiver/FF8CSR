@@ -1,5 +1,5 @@
 # FF8CSR
-CutScene Remover mod for Final Fantasy 8 speedrun practice.
+Final Fantasy VIII Cutscene Remover Mod.
 
 ## Download from google drive:
 https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy?usp=sharing
