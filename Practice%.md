@@ -5,7 +5,7 @@
 # Installation:
 Same as CSR  
 
-Mod has 3 routes:
+### Mod has 3 routes:
 - Practice% (~1.5h long) for practicing menus and testing any different routes.  
 Battles are also included in order to get AP.  
 Autosplitter works with almost all splits except for Corridor, Leaving horizon, Air soldier. Remove it from splits.
