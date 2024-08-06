@@ -5,7 +5,7 @@ Cutscene Remover mod for the Final Fantasy VIII 2013 Steam edition. The mod was 
 From [Google Drive](https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy)
 
 ## Installation:
-- Make a back up of your original files if you want to quickly swap to original later<br />
+- Make a backup of your original files if you want to quickly swap to original later<br />
 - Copy and paste the 3 files into your game data folder<br /><br />
 French path: *"FINAL FANTASY VIII/Data/lang-en"* <br />
 English path: *"FINAL FANTASY VIII/Data/lang-fr"* <br />
@@ -18,7 +18,7 @@ Verify the game cache in the game's proprerties in steam, or replace the files w
 - Mod only works for Steam 2013 version. English and French only.
 ### What is exactly removed?
 - All FMV's that you encounter during a run (with some exceptions)
-- All sections where no player input is needed or long text mashing sections.  
+- All sections where no player input is needed or long text mashing sections  
 ### Is there any bad habits that I will gain after playing this?
 - No in most cases. Every movement and options are kept. The mod is made in a way so you could make a smooth transition to the original. Usually it's the first and the last text box of a mashing section that are kept so that you learn when to stop mashing.  
 ### How faster my run will be?
