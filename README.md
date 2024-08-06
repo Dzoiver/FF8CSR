@@ -1,7 +1,7 @@
 # FF8CSR
 Cutscene Remover mod for the Final Fantasy VIII 2013 Steam edition. The mod was made specifically for a speedrun.
 # Practice%
-Link to [Practice%](https://github.com/Dzoiver/FF8CSR/blob/main/Practice%25.md)
+Link to other mod [Practice%](https://github.com/Dzoiver/FF8CSR/blob/main/Practice%25.md)
 
 ## Download:
 Archive with data files from [Google Drive](https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy) with needed version.
