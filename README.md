@@ -5,8 +5,8 @@ Final Fantasy VIII Cutscene Remover Mod.
 https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy?usp=sharing
 
 ## Installation:
--Make a back up of your original files if you want to quickly swap to original later.<br />
--Copy and paste the 3 files into your game data folder.<br />
+- Make a back up of your original files if you want to quickly swap to original later.<br />
+- Copy and paste the 3 files into your game data folder.<br />
 French path: *"FINAL FANTASY VIII/Data/lang-en"* <br />
 English path: *"FINAL FANTASY VIII/Data/lang-fr"* <br />
 
