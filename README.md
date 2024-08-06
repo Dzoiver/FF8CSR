@@ -18,7 +18,7 @@ FF8 Cutscene Remover is a cutsceneless mod of the Final Fantasy VIII 2013 Steam 
 
 ## FAQ
 Which version of FF8 do I need?
-- Mod only works for Steam 2013 version.<br />
+- Mod only works for Steam 2013 version.__
 What is exactly removed?
 - All FMV's that you encounter during a run (with some exceptions)
 - All sections where no player input is needed or long text mashing sections.<br />
