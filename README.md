@@ -17,14 +17,14 @@ Verify the game cache in the game's proprerties in steam, or replace the files w
 FF8 Cutscene Remover is a cutsceneless mod of the Final Fantasy VIII 2013 Steam edition. The mod was made specifically for a speedrun.
 
 ## FAQ
-Which version of FF8 do I need?
+### Which version of FF8 do I need?
 - Mod only works for Steam 2013 version.  
-What is exactly removed?
+### What is exactly removed?
 - All FMV's that you encounter during a run (with some exceptions)
 - All sections where no player input is needed or long text mashing sections.  
-Will I be able to move to original run with no problem?
+### Will I be able to move to original run with no problem?
 - Yes. Every movement and options are kept. The mod is made in a way so you could make a smooth transition to the original. Usually it's the first and the last text box of a mashing section that are kept so that you learn when to stop your mashing.  
-How faster my run will be?
+### How faster my run will be?
 - The mod cuts ~45% of the run time compared to original
 
 FF8 Cutscene Remover is a cutsceneless mod of the Final Fantasy VIII 2013 Steam edition. The mod was made specifically for a speedrun. Most of the movement and options are kept.
