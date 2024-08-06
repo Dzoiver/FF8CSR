@@ -24,8 +24,6 @@ Verify the game cache in the game's proprerties in steam, or replace the files w
 ### How faster my run will be?
 - The mod cuts ~45% of the run time compared to original
 
-FF8 Cutscene Remover is a cutsceneless mod of the Final Fantasy VIII 2013 Steam edition. The mod was made specifically for a speedrun. Most of the movement and options are kept.
-
 ## Credit:
 [Seifer](https://www.twitch.tv/seifertv) creator<br />
 [Thomas_8989](https://www.twitch.tv/thomas_8989) for porting the mod to english version
