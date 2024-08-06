@@ -8,8 +8,8 @@ Archive with data files from [Google Drive](https://drive.google.com/drive/folde
 ## Installation:
 - Make a backup of your original files if you want to quickly swap to original later<br />
 - Copy and paste the 3 files into your game data folder<br /><br />
-French path: *"FINAL FANTASY VIII/Data/lang-en"* <br />
-English path: *"FINAL FANTASY VIII/Data/lang-fr"* <br />
+French path: *"FINAL FANTASY VIII/Data/lang-fr"* <br />
+English path: *"FINAL FANTASY VIII/Data/lang-en"* <br />
 
 ## How to remove the mod:
 Verify the game cache in the game's proprerties in steam, or replace the files with original backup ones.
