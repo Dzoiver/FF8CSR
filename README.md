@@ -1,5 +1,5 @@
 # FF8CSR
-Final Fantasy VIII Cutscene Remover Mod.
+Cutscene Remover mod for the Final Fantasy VIII 2013 Steam edition. The mod was made specifically for a speedrun.
 
 ## Download:
 From [Google Drive](https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy)
@@ -14,7 +14,7 @@ English path: *"FINAL FANTASY VIII/Data/lang-fr"* <br />
 Verify the game cache in the game's proprerties in steam, or replace the files with original backup ones.
 
 ## Description:
-FF8 Cutscene Remover is a cutsceneless mod of the Final Fantasy VIII 2013 Steam edition. The mod was made specifically for a speedrun.
+
 
 ## FAQ:
 ### Which version of FF8 do I need?
