@@ -27,7 +27,7 @@ Verify the game cache in the game's proprerties in steam, or replace the files w
 
 ## Credit:
 [Seifer](https://www.twitch.tv/seifertv) creator<br />
-[Thomas_8989](https://www.twitch.tv/thomas_8989) for porting the mod to english version
+[Thomas_8989](https://www.twitch.tv/thomas_8989) for porting the mod to english version  
 [Deling](https://github.com/myst6re/deling) program which allowed to create the mod
 
 If you encounter any issues or have a suggestion please create a ticket here [issues](https://github.com/Dzoiver/FF8CSR/issues)
