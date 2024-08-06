@@ -28,4 +28,4 @@ Verify the game cache in the game's proprerties in steam, or replace the files w
 [Seifer](https://www.twitch.tv/seifertv) creator<br />
 [Thomas_8989](https://www.twitch.tv/thomas_8989) for porting the mod to english version
 
-If you encounter any issues please create a ticket for each here [issues](https://github.com/Dzoiver/FF8CSR/issues)
+If you encounter any issues please create a ticket for each one here [issues](https://github.com/Dzoiver/FF8CSR/issues)
