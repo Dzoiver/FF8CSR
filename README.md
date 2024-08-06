@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy?usp=sha
 
 ## Installation:
 - Make a back up of your original files if you want to quickly swap to original later.<br />
-- Copy and paste the 3 files into your game data folder.
+- Copy and paste the 3 files into your game data folder.<br /><br />
 French path: *"FINAL FANTASY VIII/Data/lang-en"* <br />
 English path: *"FINAL FANTASY VIII/Data/lang-fr"* <br />
 
