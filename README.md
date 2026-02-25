@@ -3,6 +3,7 @@ Cutscene Remover mod for the Final Fantasy VIII 2013 Steam edition. The mod was 
 Go here if you wish to install other mod [Practice%](https://github.com/Dzoiver/FF8CSR/blob/main/Practice%25.md).
 
 ## Download:
+[Latest release](https://github.com/Dzoiver/Solitary-Grace/releases/latest) from github
 Archive with data files from [Google Drive](https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy) with corresponding version.
 
 ## Installation:
