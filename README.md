@@ -17,11 +17,12 @@ English path: *"FINAL FANTASY VIII/Data/lang-en"* <br />
 Verify the game cache in the game's proprerties in steam, or replace the files with original backup ones.
 
 ## FAQ:
-### Which version of FF8 do I need?
-- Mod only works for Steam 2013 version. English and French only.
+### Will it work for Remastered?
+- No, there's no such mod for remastered yet
 ### What is exactly removed?
 - All FMV's that you encounter during a run (with some exceptions)
-- All sections where no player input is needed or long text mashing sections  
+- All sections where no player input is needed
+- Long text mashing sections  
 ### Is there any bad habits that I will gain after playing this?
 - No in most cases. Every movement and options are kept. The mod is made in a way so you could make a smooth transition to the original. Usually it's the first and the last text box of a mashing section that are kept so that you learn when to stop mashing.  
 ### How faster my run will be?
@@ -30,7 +31,7 @@ Verify the game cache in the game's proprerties in steam, or replace the files w
 ## Credit:
 [Seifer](https://www.twitch.tv/seifertv) creator<br />
 [Thomas_8989](https://www.twitch.tv/thomas_8989) for porting the mod to english version  
-[Deling](https://github.com/myst6re/deling) program which allowed to create the mod
+[Deling](https://github.com/myst6re/deling) program which allowed to create the mod  
 [Sleepey](https://github.com/sleepeybunney) for creating the patcher script which allows us to port it to other languages much easier
 
 If you encounter any issues or have a suggestion please create a ticket here [issues](https://github.com/Dzoiver/FF8CSR/issues)
