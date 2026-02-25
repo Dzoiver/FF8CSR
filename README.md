@@ -4,6 +4,7 @@ Go here if you wish to install other mod [Practice%](https://github.com/Dzoiver/
 
 ## Download:
 [Latest release](https://github.com/Dzoiver/Solitary-Grace/releases/latest) from github
+
 Archive with data files from [Google Drive](https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy) with corresponding version.
 
 ## Installation:
