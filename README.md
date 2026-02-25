@@ -5,7 +5,7 @@ Go here if you wish to install other mod [Practice%](https://github.com/Dzoiver/
 ## Download:
 [Latest release](https://github.com/Dzoiver/FF8CSR/releases/latest) from github
 
-Not always up to date!!! Archive with data files from [Google Drive](https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy) with corresponding version.
+Not always up to date!!! Alternative link [Google Drive](https://drive.google.com/drive/folders/1gXE7-JENazgafJKHgSnw5b9-RHIWgPBy)  
 
 ## Installation:
 - Make a backup of your original files if you want to quickly swap to original later<br />
