@@ -27,7 +27,7 @@ Verify the game cache in the game's properties in steam, or replace the files wi
 - Long text heavy sections
 - Some boss animations in battles
 ### Is there any bad habits that I will gain after playing this?
-- No in most cases. Every movement and options are kept. The mod is made in a way so you could make a smooth transition to the original. Usually it's the first and the last text box of a mashing section that are kept so that you learn when to stop mashing.  All the visual cues are also there mostly.
+- No in most cases. Every movement and options are kept, as well as the visual cues for when some input required from the player. The mod is made in a way so you could make a smooth transition to the original. Usually it's the first and the last text box of a mashing section that are kept so that you learn when to stop mashing.
 ### How faster my run will be?
 - The mod cuts ~55% of the run time compared to original
 
