@@ -33,7 +33,7 @@ Verify the game cache in the game's properties in steam, or replace the files wi
 
 ## Credit:
 [Seifer](https://www.twitch.tv/seifertv) creator<br />
-[Thomas_8989](https://www.twitch.tv/thomas_8989) for porting the mod to english version  
+[Thomas_8989](https://www.twitch.tv/thomas_8989) for porting one of the earlier version to english version  
 [Deling](https://github.com/myst6re/deling) is the program this mod was made with  
 [Sleepey](https://github.com/sleepeybunney) for creating the patcher script which allows us to port it to other languages much easier
 
