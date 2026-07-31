@@ -38,6 +38,6 @@ Verify the game cache in the game's properties in steam, or replace the files wi
 [Sleepey](https://github.com/sleepeybunney) for creating the patcher script which allows us to port it to other languages much easier
 
 Version 1.6+ testers:
-Spiney, TheKittyToeBeans, bodcap
+Spiney, TheKittyToeBeans, bodcap, Olson
 
 If you encounter any issues or have a suggestion please create a ticket here [issues](https://github.com/Dzoiver/FF8CSR/issues)
